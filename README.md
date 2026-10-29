@@ -1,3 +1,21 @@
+<p align="center">
+  <a href="https://vawe.dev"><img alt="Awesome agent video: tools and references for making video with code and coding agents" src="assets/banner.png" width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vawe-hq/awesome-agent-video/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vawe-hq/awesome-agent-video?style=flat" alt="License"></a>
+  <a href="https://github.com/vawe-hq/awesome-agent-video/stargazers"><img src="https://img.shields.io/github/stars/vawe-hq/awesome-agent-video?style=flat" alt="GitHub stars"></a>
+  <a href="https://github.com/vawe-hq/awesome-agent-video/commits/main"><img src="https://img.shields.io/github/last-commit/vawe-hq/awesome-agent-video?style=flat" alt="Last commit"></a>
+</p>
+
+<p align="center"><b>HTML-to-video frameworks, animation libraries, agent skills and guides.</b></p>
+
+<p align="center">
+  <a href="https://vawe.dev">vawe.dev</a> |
+  <a href="https://vawe.dev/docs">Docs</a> |
+  <a href="https://github.com/vawe-hq/skills">Skills</a>
+</p>
+
 # Awesome Agent Video [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > Tools and references for making video with code and with coding agents.
