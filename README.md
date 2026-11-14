@@ -67,6 +67,7 @@ Libraries that run in a web page.
 Skills (`SKILL.md` folders) that teach a coding agent a video tool.
 
 - [HyperFrames community skills](https://github.com/heygen-com/hyperframes-community-skills) - Eight independent skills for HyperFrames, installed with `npx skills add heygen-com/hyperframes-community-skills --skill <skill-name>`; Apache 2.0.
+- [Kling AI Claude Code skills](https://github.com/klingai-tech/claude-plugin) - Three skills for request routing, image generation and video generation using a remote OAuth MCP; MIT client.
 - [Remotion skills](https://github.com/remotion-dev/skills) - Twelve skills for Remotion projects, installed with `npx skills add remotion-dev/skills`.
 - [vawe skills](https://github.com/vawe-hq/skills) - Six skills for vawe (html-to-video, vawe-brief, vawe-critique, vawe-page, vawe-reference, vawe-transitions), installed with `npx skills add vawe-hq/skills`; Apache 2.0.
 
